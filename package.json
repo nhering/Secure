@@ -1,0 +1,19 @@
+{
+  "name": "secure",
+  "version": "1.0.0",
+  "description": "Built using Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhering/Secure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhering/Secure/issues"
+  },
+  "homepage": "https://github.com/nhering/Secure#readme"
+}
